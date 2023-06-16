@@ -444,15 +444,15 @@
       <name>ISOPLETAS_AREAS_GEO_WGS84</name>
       <open>0</open>
       <Folder>
-        <name>25</name>
+        <name>TESTE 1</name>
         <open>0</open>
         <Placemark>
-          <name>TESTE TESTE</name>
+          <name>TESTE 2</name>
           <styleUrl>#ISOPLETAS_AREAS_GEO_WGS84\25</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
               <SimpleData name="FID">11</SimpleData>
-              <SimpleData name="VELOCIDADE">TESTE TESTE</SimpleData>
+              <SimpleData name="VELOCIDADE">TESTE 3</SimpleData>
             </SchemaData>
           </ExtendedData>
           <Polygon>
