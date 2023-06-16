@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Isopletas - GEO_WGS84</name>
@@ -323,20 +323,6 @@
               <coordinates>-46.132381,-26.434533,0.000000 -46.917603,-25.958641,0.000000 -47.872751,-25.011439,0.000000 -48.604964,-24.263648,0.000000 -49.071338,-23.673542,0.000000 -50.270587,-22.264901,0.000000 -51.269960,-20.884813,0.000000 -52.259816,-19.904475,0.000000 -53.611350,-18.781370,0.000000 -54.534581,-18.295960,0.000000 -55.667204,-18.067531,0.000000 -57.456559,-18.000907,0.000000 -57.612111,-18.024610,0.000000 -59.062372,-18.247998,0.000000 -59.576335,-18.376489,0.000000 </coordinates>
             </LineString>
           </MultiGeometry>
-          <LabelStyle>
-	    <scale>2</scale>
-	  </LabelStyle>
-	  <Style>
-	    <LineStyle>
-	      <!-- estilo da linha -->
-	    </LineStyle>
-	    <LabelStyle>
-	      <scale>3</scale>
-	    </LabelStyle>
-	  </Style>
-	  <Point>
-	    <coordinates>-51.866082,-20.294424,0.000000</coordinates>
-	  </Point>
         </Placemark>
         <Placemark>
           <name>40</name>
@@ -444,15 +430,15 @@
       <name>ISOPLETAS_AREAS_GEO_WGS84</name>
       <open>0</open>
       <Folder>
-        <name>TESTE 1</name>
+        <name>TESTE1</name>
         <open>0</open>
         <Placemark>
-          <name>TESTE 2</name>
-          <styleUrl>#ISOPLETAS_AREAS_GEO_WGS84\TESTE</styleUrl>
+          <name>TESTE2</name>
+          <styleUrl>#ISOPLETAS_AREAS_GEO_WGS84\25</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
               <SimpleData name="FID">11</SimpleData>
-              <SimpleData name="VELOCIDADE">TESTE 3</SimpleData>
+              <SimpleData name="VELOCIDADE">TESTE3</SimpleData>
             </SchemaData>
           </ExtendedData>
           <Polygon>
