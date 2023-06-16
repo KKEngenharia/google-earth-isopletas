@@ -324,14 +324,14 @@
             </LineString>
           </MultiGeometry>
           <LabelStyle>
-	    <scale>0</scale>
+	    <scale>2</scale>
 	  </LabelStyle>
 	  <Style>
 	    <LineStyle>
 	      <!-- estilo da linha -->
 	    </LineStyle>
 	    <LabelStyle>
-	      <scale>1</scale>
+	      <scale>3</scale>
 	    </LabelStyle>
 	  </Style>
 	  <Point>
