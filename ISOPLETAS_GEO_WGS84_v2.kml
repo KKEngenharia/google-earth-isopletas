@@ -452,7 +452,7 @@
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
               <SimpleData name="FID">11</SimpleData>
-              <SimpleData name="VELOCIDADE">25</SimpleData>
+              <SimpleData name="VELOCIDADE">TESTE TESTE</SimpleData>
             </SchemaData>
           </ExtendedData>
           <Polygon>
