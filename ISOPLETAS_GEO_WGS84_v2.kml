@@ -448,7 +448,7 @@
         <open>0</open>
         <Placemark>
           <name>TESTE 2</name>
-          <styleUrl>#ISOPLETAS_AREAS_GEO_WGS84\25</styleUrl>
+          <styleUrl>#ISOPLETAS_AREAS_GEO_WGS84\TESTE</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
               <SimpleData name="FID">11</SimpleData>
