@@ -153,10 +153,10 @@
       <name>ISOPLETAS_LINES_GEO_WGS84</name>
       <open>0</open>
       <Folder>
-        <name>35</name>
+        <name>30-35</name>
         <open>0</open>
         <Placemark>
-          <name>35</name>
+          <name>30-35</name>
           <styleUrl>#ISOPLETAS_LINES_GEO_WGS84\30</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
@@ -179,7 +179,7 @@
           </MultiGeometry>
         </Placemark>
         <Placemark>
-          <name>35</name>
+          <name>30-35</name>
           <styleUrl>#ISOPLETAS_LINES_GEO_WGS84\30</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
@@ -202,7 +202,7 @@
           </MultiGeometry>
         </Placemark>
         <Placemark>
-          <name>35</name>
+          <name>30-35</name>
           <styleUrl>#ISOPLETAS_LINES_GEO_WGS84\30</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
@@ -226,10 +226,10 @@
         </Placemark>
       </Folder>
       <Folder>
-        <name>40</name>
+        <name>35-40</name>
         <open>0</open>
         <Placemark>
-          <name>40</name>
+          <name>35-40</name>
           <styleUrl>#ISOPLETAS_LINES_GEO_WGS84\31 - 35</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
@@ -252,7 +252,7 @@
           </MultiGeometry>
         </Placemark>
         <Placemark>
-          <name>40</name>
+          <name>35-40</name>
           <styleUrl>#ISOPLETAS_LINES_GEO_WGS84\31 - 35</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
@@ -275,7 +275,7 @@
           </MultiGeometry>
         </Placemark>
         <Placemark>
-          <name>40</name>
+          <name35-40</name>
           <styleUrl>#ISOPLETAS_LINES_GEO_WGS84\31 - 35</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
@@ -299,10 +299,10 @@
         </Placemark>
       </Folder>
       <Folder>
-        <name>45</name>
+        <name>40-45</name>
         <open>0</open>
         <Placemark>
-          <name>45</name>
+          <name>40-45</name>
           <styleUrl>#ISOPLETAS_LINES_GEO_WGS84\36 - 40</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
@@ -325,7 +325,7 @@
           </MultiGeometry>
         </Placemark>
         <Placemark>
-          <name>45</name>
+          <name>40-45</name>
           <styleUrl>#ISOPLETAS_LINES_GEO_WGS84\36 - 40</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
@@ -349,10 +349,10 @@
         </Placemark>
       </Folder>
       <Folder>
-        <name>50</name>
+        <name>45-50</name>
         <open>0</open>
         <Placemark>
-          <name>50</name>
+          <name>45-50</name>
           <styleUrl>#ISOPLETAS_LINES_GEO_WGS84\41 - 45</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
@@ -375,7 +375,7 @@
           </MultiGeometry>
         </Placemark>
         <Placemark>
-          <name>50</name>
+          <name>45-50</name>
           <styleUrl>#ISOPLETAS_LINES_GEO_WGS84\41 - 45</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
@@ -399,10 +399,10 @@
         </Placemark>
       </Folder>
       <Folder>
-        <name>46 - 50</name>
+        <name>45-50</name>
         <open>0</open>
         <Placemark>
-          <name>50</name>
+          <name>45-50</name>
           <styleUrl>#ISOPLETAS_LINES_GEO_WGS84\46 - 50</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
@@ -430,10 +430,10 @@
       <name>ISOPLETAS_AREAS_GEO_WGS84</name>
       <open>0</open>
       <Folder>
-        <name>30</name>
+        <name>25-30</name>
         <open>0</open>
         <Placemark>
-          <name>30</name>
+          <name>25-30</name>
           <styleUrl>#ISOPLETAS_AREAS_GEO_WGS84\25</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
@@ -454,10 +454,10 @@
         </Placemark>
       </Folder>
       <Folder>
-        <name>30</name>
+        <name>25-30</name>
         <open>0</open>
         <Placemark>
-          <name>35</name>
+          <name>25-30</name>
           <styleUrl>#ISOPLETAS_AREAS_GEO_WGS84\26 - 30</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
@@ -477,7 +477,7 @@
           </Polygon>
         </Placemark>
         <Placemark>
-          <name>35</name>
+          <name>30-35</name>
           <styleUrl>#ISOPLETAS_AREAS_GEO_WGS84\26 - 30</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
@@ -497,7 +497,7 @@
           </Polygon>
         </Placemark>
         <Placemark>
-          <name>35</name>
+          <name>30-35</name>
           <styleUrl>#ISOPLETAS_AREAS_GEO_WGS84\26 - 30</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
@@ -524,7 +524,7 @@
           </MultiGeometry>
         </Placemark>
         <Placemark>
-          <name>35</name>
+          <name>30-35</name>
           <styleUrl>#ISOPLETAS_AREAS_GEO_WGS84\26 - 30</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
@@ -545,10 +545,10 @@
         </Placemark>
       </Folder>
       <Folder>
-        <name>40</name>
+        <name>35-40</name>
         <open>0</open>
         <Placemark>
-          <name>40</name>
+          <name>35-40</name>
           <styleUrl>#ISOPLETAS_AREAS_GEO_WGS84\31 - 35</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
@@ -568,7 +568,7 @@
           </Polygon>
         </Placemark>
         <Placemark>
-          <name>40</name>
+          <name>35-40</name>
           <styleUrl>#ISOPLETAS_AREAS_GEO_WGS84\31 - 35</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
@@ -595,7 +595,7 @@
           </MultiGeometry>
         </Placemark>
         <Placemark>
-          <name>40</name>
+          <name>35-40</name>
           <styleUrl>#ISOPLETAS_AREAS_GEO_WGS84\31 - 35</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
@@ -616,10 +616,10 @@
         </Placemark>
       </Folder>
       <Folder>
-        <name>36 - 40</name>
+        <name>40-45</name>
         <open>0</open>
         <Placemark>
-          <name>45</name>
+          <name>40-45</name>
           <styleUrl>#ISOPLETAS_AREAS_GEO_WGS84\36 - 40</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
@@ -639,7 +639,7 @@
           </Polygon>
         </Placemark>
         <Placemark>
-          <name>45</name>
+          <name>40-45</name>
           <styleUrl>#ISOPLETAS_AREAS_GEO_WGS84\36 - 40</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
@@ -667,10 +667,10 @@
         </Placemark>
       </Folder>
       <Folder>
-        <name>41 - 50</name>
+        <name>45-50</name>
         <open>0</open>
         <Placemark>
-          <name>50</name>
+          <name>45-50</name>
           <styleUrl>#ISOPLETAS_AREAS_GEO_WGS84\41 - 50</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
@@ -697,7 +697,7 @@
           </MultiGeometry>
         </Placemark>
         <Placemark>
-          <name>50</name>
+          <name>45-50</name>
           <styleUrl>#ISOPLETAS_AREAS_GEO_WGS84\41 - 50</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
@@ -717,7 +717,7 @@
           </Polygon>
         </Placemark>
         <Placemark>
-          <name>50</name>
+          <name>45-50</name>
           <styleUrl>#ISOPLETAS_AREAS_GEO_WGS84\41 - 50</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
@@ -737,7 +737,7 @@
           </Polygon>
         </Placemark>
         <Placemark>
-          <name>50</name>
+          <name>45-50</name>
           <styleUrl>#ISOPLETAS_AREAS_GEO_WGS84\41 - 50</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
