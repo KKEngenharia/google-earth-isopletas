@@ -13,7 +13,7 @@
         <color>BFFFFFFF</color>
         <scale>0.1</scale>
         <Icon>
-		  <href>http://maps.google.com/mapfiles/kml/shapes/info-i.png</href>
+	  <href>http://maps.google.com/mapfiles/kml/shapes/info-i.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -161,7 +161,7 @@
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
               <SimpleData name="FID">1</SimpleData>
-              <SimpleData name="VELOCIDADE">35</SimpleData>
+              <SimpleData name="VELOCIDADE">30-35</SimpleData>
             </SchemaData>
           </ExtendedData>
           <MultiGeometry>
@@ -184,7 +184,7 @@
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
               <SimpleData name="FID">2</SimpleData>
-              <SimpleData name="VELOCIDADE">35</SimpleData>
+              <SimpleData name="VELOCIDADE">30-35</SimpleData>
             </SchemaData>
           </ExtendedData>
           <MultiGeometry>
@@ -207,7 +207,7 @@
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
               <SimpleData name="FID">3</SimpleData>
-              <SimpleData name="VELOCIDADE">35</SimpleData>
+              <SimpleData name="VELOCIDADE">30-35</SimpleData>
             </SchemaData>
           </ExtendedData>
           <MultiGeometry>
@@ -234,7 +234,7 @@
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
               <SimpleData name="FID">0</SimpleData>
-              <SimpleData name="VELOCIDADE">40</SimpleData>
+              <SimpleData name="VELOCIDADE">35-40</SimpleData>
             </SchemaData>
           </ExtendedData>
           <MultiGeometry>
@@ -257,7 +257,7 @@
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
               <SimpleData name="FID">4</SimpleData>
-              <SimpleData name="VELOCIDADE">40</SimpleData>
+              <SimpleData name="VELOCIDADE">35-40</SimpleData>
             </SchemaData>
           </ExtendedData>
           <MultiGeometry>
@@ -280,7 +280,7 @@
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
               <SimpleData name="FID">5</SimpleData>
-              <SimpleData name="VELOCIDADE">40</SimpleData>
+              <SimpleData name="VELOCIDADE">35-40</SimpleData>
             </SchemaData>
           </ExtendedData>
           <MultiGeometry>
@@ -307,7 +307,7 @@
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
               <SimpleData name="FID">6</SimpleData>
-              <SimpleData name="VELOCIDADE">45</SimpleData>
+              <SimpleData name="VELOCIDADE">40-45</SimpleData>
             </SchemaData>
           </ExtendedData>
           <MultiGeometry>
@@ -330,7 +330,7 @@
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
               <SimpleData name="FID">7</SimpleData>
-              <SimpleData name="VELOCIDADE">45</SimpleData>
+              <SimpleData name="VELOCIDADE">40-45</SimpleData>
             </SchemaData>
           </ExtendedData>
           <MultiGeometry>
@@ -357,7 +357,7 @@
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
               <SimpleData name="FID">8</SimpleData>
-              <SimpleData name="VELOCIDADE">50</SimpleData>
+              <SimpleData name="VELOCIDADE">45-50</SimpleData>
             </SchemaData>
           </ExtendedData>
           <MultiGeometry>
@@ -380,7 +380,7 @@
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
               <SimpleData name="FID">9</SimpleData>
-              <SimpleData name="VELOCIDADE">50</SimpleData>
+              <SimpleData name="VELOCIDADE">45-50</SimpleData>
             </SchemaData>
           </ExtendedData>
           <MultiGeometry>
@@ -407,7 +407,7 @@
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
               <SimpleData name="FID">10</SimpleData>
-              <SimpleData name="VELOCIDADE">50</SimpleData>
+              <SimpleData name="VELOCIDADE">45-50</SimpleData>
             </SchemaData>
           </ExtendedData>
           <MultiGeometry>
@@ -438,7 +438,7 @@
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
               <SimpleData name="FID">11</SimpleData>
-              <SimpleData name="VELOCIDADE">30</SimpleData>
+              <SimpleData name="VELOCIDADE">25-30</SimpleData>
             </SchemaData>
           </ExtendedData>
           <Polygon>
@@ -462,7 +462,7 @@
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
               <SimpleData name="FID">1</SimpleData>
-              <SimpleData name="VELOCIDADE">30</SimpleData>
+              <SimpleData name="VELOCIDADE">25-30</SimpleData>
             </SchemaData>
           </ExtendedData>
           <Polygon>
@@ -482,7 +482,7 @@
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
               <SimpleData name="FID">5</SimpleData>
-              <SimpleData name="VELOCIDADE">35</SimpleData>
+              <SimpleData name="VELOCIDADE">30-35</SimpleData>
             </SchemaData>
           </ExtendedData>
           <Polygon>
@@ -502,7 +502,7 @@
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
               <SimpleData name="FID">7</SimpleData>
-              <SimpleData name="VELOCIDADE">35</SimpleData>
+              <SimpleData name="VELOCIDADE">30-35</SimpleData>
             </SchemaData>
           </ExtendedData>
           <MultiGeometry>
@@ -529,7 +529,7 @@
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
               <SimpleData name="FID">12</SimpleData>
-              <SimpleData name="VELOCIDADE">35</SimpleData>
+              <SimpleData name="VELOCIDADE">30-35</SimpleData>
             </SchemaData>
           </ExtendedData>
           <Polygon>
@@ -553,7 +553,7 @@
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
               <SimpleData name="FID">0</SimpleData>
-              <SimpleData name="VELOCIDADE">40</SimpleData>
+              <SimpleData name="VELOCIDADE">35-40</SimpleData>
             </SchemaData>
           </ExtendedData>
           <Polygon>
@@ -573,7 +573,7 @@
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
               <SimpleData name="FID">2</SimpleData>
-              <SimpleData name="VELOCIDADE">40</SimpleData>
+              <SimpleData name="VELOCIDADE">35-40</SimpleData>
             </SchemaData>
           </ExtendedData>
           <MultiGeometry>
@@ -600,7 +600,7 @@
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
               <SimpleData name="FID">6</SimpleData>
-              <SimpleData name="VELOCIDADE">40</SimpleData>
+              <SimpleData name="VELOCIDADE">35-40</SimpleData>
             </SchemaData>
           </ExtendedData>
           <Polygon>
@@ -624,7 +624,7 @@
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
               <SimpleData name="FID">4</SimpleData>
-              <SimpleData name="VELOCIDADE">45</SimpleData>
+              <SimpleData name="VELOCIDADE">40-45</SimpleData>
             </SchemaData>
           </ExtendedData>
           <Polygon>
@@ -644,7 +644,7 @@
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
               <SimpleData name="FID">9</SimpleData>
-              <SimpleData name="VELOCIDADE">45</SimpleData>
+              <SimpleData name="VELOCIDADE">40-45</SimpleData>
             </SchemaData>
           </ExtendedData>
           <MultiGeometry>
@@ -675,7 +675,7 @@
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
               <SimpleData name="FID">3</SimpleData>
-              <SimpleData name="VELOCIDADE">50</SimpleData>
+              <SimpleData name="VELOCIDADE">45-50</SimpleData>
             </SchemaData>
           </ExtendedData>
           <MultiGeometry>
@@ -702,7 +702,7 @@
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
               <SimpleData name="FID">8</SimpleData>
-              <SimpleData name="VELOCIDADE">50</SimpleData>
+              <SimpleData name="VELOCIDADE">45-50</SimpleData>
             </SchemaData>
           </ExtendedData>
           <Polygon>
@@ -722,7 +722,7 @@
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
               <SimpleData name="FID">10</SimpleData>
-              <SimpleData name="VELOCIDADE">50</SimpleData>
+              <SimpleData name="VELOCIDADE">45-50</SimpleData>
             </SchemaData>
           </ExtendedData>
           <Polygon>
@@ -742,7 +742,7 @@
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
               <SimpleData name="FID">13</SimpleData>
-              <SimpleData name="VELOCIDADE">50</SimpleData>
+              <SimpleData name="VELOCIDADE">45-50</SimpleData>
             </SchemaData>
           </ExtendedData>
           <MultiGeometry>
