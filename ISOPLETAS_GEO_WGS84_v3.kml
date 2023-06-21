@@ -156,7 +156,7 @@
         <name>30</name>
         <open>0</open>
         <Placemark>
-          <name>30</name>
+          <name>100</name>
           <styleUrl>#ISOPLETAS_LINES_GEO_WGS84\30</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
@@ -179,7 +179,7 @@
           </MultiGeometry>
         </Placemark>
         <Placemark>
-          <name>30</name>
+          <name>100</name>
           <styleUrl>#ISOPLETAS_LINES_GEO_WGS84\30</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
@@ -202,7 +202,7 @@
           </MultiGeometry>
         </Placemark>
         <Placemark>
-          <name>30</name>
+          <name>100</name>
           <styleUrl>#ISOPLETAS_LINES_GEO_WGS84\30</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
@@ -229,7 +229,7 @@
         <name>31 - 35</name>
         <open>0</open>
         <Placemark>
-          <name>35</name>
+          <name>100</name>
           <styleUrl>#ISOPLETAS_LINES_GEO_WGS84\31 - 35</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
@@ -252,7 +252,7 @@
           </MultiGeometry>
         </Placemark>
         <Placemark>
-          <name>35</name>
+          <name>150</name>
           <styleUrl>#ISOPLETAS_LINES_GEO_WGS84\31 - 35</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
@@ -275,7 +275,7 @@
           </MultiGeometry>
         </Placemark>
         <Placemark>
-          <name>35</name>
+          <name>150</name>
           <styleUrl>#ISOPLETAS_LINES_GEO_WGS84\31 - 35</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
@@ -302,7 +302,7 @@
         <name>36 - 40</name>
         <open>0</open>
         <Placemark>
-          <name>40</name>
+          <name>200</name>
           <styleUrl>#ISOPLETAS_LINES_GEO_WGS84\36 - 40</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
@@ -325,7 +325,7 @@
           </MultiGeometry>
         </Placemark>
         <Placemark>
-          <name>40</name>
+          <name>200</name>
           <styleUrl>#ISOPLETAS_LINES_GEO_WGS84\36 - 40</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
@@ -352,7 +352,7 @@
         <name>41 - 45</name>
         <open>0</open>
         <Placemark>
-          <name>45</name>
+          <name>250</name>
           <styleUrl>#ISOPLETAS_LINES_GEO_WGS84\41 - 45</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
@@ -375,7 +375,7 @@
           </MultiGeometry>
         </Placemark>
         <Placemark>
-          <name>45</name>
+          <name>250</name>
           <styleUrl>#ISOPLETAS_LINES_GEO_WGS84\41 - 45</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
@@ -402,7 +402,7 @@
         <name>46 - 50</name>
         <open>0</open>
         <Placemark>
-          <name>50</name>
+          <name>300</name>
           <styleUrl>#ISOPLETAS_LINES_GEO_WGS84\46 - 50</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
@@ -433,7 +433,7 @@
         <name>25</name>
         <open>0</open>
         <Placemark>
-          <name>25</name>
+          <name>5</name>
           <styleUrl>#ISOPLETAS_AREAS_GEO_WGS84\25</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
