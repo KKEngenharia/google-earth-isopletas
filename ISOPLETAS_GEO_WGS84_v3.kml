@@ -11,7 +11,7 @@
       </LineStyle>
       <IconStyle>
         <color>BFFFFFFF</color>
-        <scale>0.1</scale>
+        <scale>5</scale>
         <Icon>
 		  <href>http://maps.google.com/mapfiles/kml/shapes/info-i.png</href>
         </Icon>
@@ -24,7 +24,7 @@
       </LineStyle>
       <IconStyle>
         <color>BFFFFFFF</color>
-        <scale>0.1</scale>
+        <scale>5</scale>
         <Icon>
           <href>http://maps.google.com/mapfiles/kml/shapes/info-i.png</href>
         </Icon>
@@ -37,7 +37,7 @@
       </LineStyle>
       <IconStyle>
         <color>BFFFFFFF</color>
-        <scale>0.1</scale>
+        <scale>5</scale>
         <Icon>
           <href>http://maps.google.com/mapfiles/kml/shapes/info-i.png</href>
         </Icon>
@@ -50,7 +50,7 @@
       </LineStyle>
       <IconStyle>
         <color>BFFFFFFF</color>
-        <scale>0.1</scale>
+        <scale>5</scale>
         <Icon>
           <href>http://maps.google.com/mapfiles/kml/shapes/info-i.png</href>
         </Icon>
@@ -63,7 +63,7 @@
       </LineStyle>
       <IconStyle>
         <color>BFFFFFFF</color>
-        <scale>0.1</scale>
+        <scale>5</scale>
         <Icon>
           <href>http://maps.google.com/mapfiles/kml/shapes/info-i.png</href>
         </Icon>
@@ -72,7 +72,7 @@
     <Style id="ISOPLETAS_LINES_GEO_WGS84_info">
       <IconStyle>
         <color>BFFFFFFF</color>
-        <scale>0.1</scale>
+        <scale>5</scale>
         <Icon>
           <href>http://maps.google.com/mapfiles/kml/shapes/info-i.png</href>
         </Icon>
@@ -226,7 +226,7 @@
         </Placemark>
       </Folder>
       <Folder>
-        <name>31 - 35</name>
+        <name>40</name>
         <open>0</open>
         <Placemark>
           <name>40</name>
@@ -299,7 +299,7 @@
         </Placemark>
       </Folder>
       <Folder>
-        <name>36 - 40</name>
+        <name>45</name>
         <open>0</open>
         <Placemark>
           <name>45</name>
@@ -349,7 +349,7 @@
         </Placemark>
       </Folder>
       <Folder>
-        <name>41 - 45</name>
+        <name>50</name>
         <open>0</open>
         <Placemark>
           <name>50</name>
@@ -438,7 +438,7 @@
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
               <SimpleData name="FID">11</SimpleData>
-              <SimpleData name="VELOCIDADE">30<</SimpleData>
+              <SimpleData name="VELOCIDADE">30</SimpleData>
             </SchemaData>
           </ExtendedData>
           <Polygon>
@@ -454,7 +454,7 @@
         </Placemark>
       </Folder>
       <Folder>
-        <name>26 - 30</name>
+        <name>30</name>
         <open>0</open>
         <Placemark>
           <name>35</name>
@@ -462,7 +462,7 @@
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
               <SimpleData name="FID">1</SimpleData>
-              <SimpleData name="VELOCIDADE">35</SimpleData>
+              <SimpleData name="VELOCIDADE">30</SimpleData>
             </SchemaData>
           </ExtendedData>
           <Polygon>
@@ -545,7 +545,7 @@
         </Placemark>
       </Folder>
       <Folder>
-        <name>31 - 35</name>
+        <name>40</name>
         <open>0</open>
         <Placemark>
           <name>40</name>
@@ -670,12 +670,12 @@
         <name>41 - 50</name>
         <open>0</open>
         <Placemark>
-          <name>45</name>
+          <name>50</name>
           <styleUrl>#ISOPLETAS_AREAS_GEO_WGS84\41 - 50</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
               <SimpleData name="FID">3</SimpleData>
-              <SimpleData name="VELOCIDADE">45</SimpleData>
+              <SimpleData name="VELOCIDADE">50</SimpleData>
             </SchemaData>
           </ExtendedData>
           <MultiGeometry>
@@ -697,12 +697,12 @@
           </MultiGeometry>
         </Placemark>
         <Placemark>
-          <name>45</name>
+          <name>50</name>
           <styleUrl>#ISOPLETAS_AREAS_GEO_WGS84\41 - 50</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
               <SimpleData name="FID">8</SimpleData>
-              <SimpleData name="VELOCIDADE">45</SimpleData>
+              <SimpleData name="VELOCIDADE">50</SimpleData>
             </SchemaData>
           </ExtendedData>
           <Polygon>
@@ -717,12 +717,12 @@
           </Polygon>
         </Placemark>
         <Placemark>
-          <name>45</name>
+          <name>50</name>
           <styleUrl>#ISOPLETAS_AREAS_GEO_WGS84\41 - 50</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
               <SimpleData name="FID">10</SimpleData>
-              <SimpleData name="VELOCIDADE">45</SimpleData>
+              <SimpleData name="VELOCIDADE">50</SimpleData>
             </SchemaData>
           </ExtendedData>
           <Polygon>
