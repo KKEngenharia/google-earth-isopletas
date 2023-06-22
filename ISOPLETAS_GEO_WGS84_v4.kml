@@ -161,7 +161,7 @@
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
               <SimpleData name="FID">1</SimpleData>
-              <SimpleData name="VELOCIDADE">25-30</SimpleData>
+              <SimpleData name="VELOCIDADE">30-35</SimpleData>
             </SchemaData>
           </ExtendedData>
           <MultiGeometry>
