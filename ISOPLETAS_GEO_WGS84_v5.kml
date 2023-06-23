@@ -639,7 +639,7 @@
           </Polygon>
         </Placemark>
         <Placemark>
-          <name>40-45</name>
+          <name>40 - 45</name>
           <styleUrl>#ISOPLETAS_AREAS_GEO_WGS84\36 - 40</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
