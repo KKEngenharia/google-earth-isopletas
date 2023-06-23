@@ -4,7 +4,7 @@
 	<name>STATES.kml</name>
 	 <Style id="estilo_linha">
 	    <LineStyle>
-	      <color>ffffffff</color>
+	      <color>fff7f7f7</color>
 	      <width>1.05</width>
 	    </LineStyle>
 	  </Style>
