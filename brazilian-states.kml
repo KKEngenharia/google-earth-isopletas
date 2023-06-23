@@ -4,8 +4,8 @@
 	<name>STATES.kml</name>
 	 <Style id="estilo_linha">
 	    <LineStyle>
-	      <color>ff0000ff</color>
-	      <width>1</width>
+	      <color>ffffffff</color>
+	      <width>0.8</width>
 	    </LineStyle>
 	  </Style>
 	<Placemark>
