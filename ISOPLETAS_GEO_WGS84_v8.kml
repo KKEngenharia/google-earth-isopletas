@@ -11,7 +11,7 @@
       </LineStyle>
       <IconStyle>
         <color>BFFFFFFF</color>
-        <scale>1.75</scale>
+        <scale>1.25</scale>
         <Icon>
 	  <href>https://i.imgur.com/hdd89Qe.png</href>
         </Icon>
@@ -24,7 +24,7 @@
       </LineStyle>
       <IconStyle>
         <color>BFFFFFFF</color>
-        <scale>1.75</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://i.imgur.com/F8F1moc.png</href>
         </Icon>
@@ -37,7 +37,7 @@
       </LineStyle>
       <IconStyle>
         <color>BFFFFFFF</color>
-        <scale>1.75</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://i.imgur.com/JfQ2WIy.png</href>
         </Icon>
@@ -50,7 +50,7 @@
       </LineStyle>
       <IconStyle>
         <color>BFFFFFFF</color>
-        <scale>1.75</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://i.imgur.com/VbParA0.png</href>
         </Icon>
@@ -63,7 +63,7 @@
       </LineStyle>
       <IconStyle>
         <color>BFFFFFFF</color>
-        <scale>1.75</scale>
+        <scale>1.25</scale>
         <Icon>
 	  <href>https://i.imgur.com/eCxJGhF.png</href>
         </Icon>
@@ -72,7 +72,7 @@
     <Style id="ISOPLETAS_LINES_GEO_WGS84_info">
       <IconStyle>
         <color>BFFFFFFF</color>
-        <scale>1.75</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://i.imgur.com/eCxJGhF.png</href>
         </Icon>
