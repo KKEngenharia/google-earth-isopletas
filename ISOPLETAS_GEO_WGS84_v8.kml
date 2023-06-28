@@ -352,12 +352,12 @@
         <name>41 - 45</name>
         <open>0</open>
         <Placemark>
-          <name>45 - 50</name>
+          <name>45</name>
           <styleUrl>#ISOPLETAS_LINES_GEO_WGS84\41 - 45</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_LINES_GEO_WGS84_schema">
               <SimpleData name="FID">8</SimpleData>
-              <SimpleData name="VELOCIDADE">45 - 50</SimpleData>
+              <SimpleData name="VELOCIDADE">45</SimpleData>
             </SchemaData>
           </ExtendedData>
           <MultiGeometry>
@@ -433,12 +433,12 @@
         <name>25</name>
         <open>0</open>
         <Placemark>
-          <name>25 - 30</name>
+          <name>30</name>
           <styleUrl>#ISOPLETAS_AREAS_GEO_WGS84\25</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
               <SimpleData name="FID">11</SimpleData>
-              <SimpleData name="VELOCIDADE">25 - 30</SimpleData>
+              <SimpleData name="VELOCIDADE">30</SimpleData>
             </SchemaData>
           </ExtendedData>
           <Polygon>
@@ -595,12 +595,12 @@
           </MultiGeometry>
         </Placemark>
         <Placemark>
-          <name>35 - 40</name>
+          <name>35</name>
           <styleUrl>#ISOPLETAS_AREAS_GEO_WGS84\31 - 35</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
               <SimpleData name="FID">6</SimpleData>
-              <SimpleData name="VELOCIDADE">35 - 40</SimpleData>
+              <SimpleData name="VELOCIDADE">35</SimpleData>
             </SchemaData>
           </ExtendedData>
           <Polygon>
@@ -697,12 +697,12 @@
           </MultiGeometry>
         </Placemark>
         <Placemark>
-          <name>45 - 50</name>
+          <name>45</name>
           <styleUrl>#ISOPLETAS_AREAS_GEO_WGS84\41 - 50</styleUrl>
           <ExtendedData>
             <SchemaData schemaUrl="#ISOPLETAS_AREAS_GEO_WGS84_schema">
               <SimpleData name="FID">8</SimpleData>
-              <SimpleData name="VELOCIDADE">45 - 50</SimpleData>
+              <SimpleData name="VELOCIDADE">45</SimpleData>
             </SchemaData>
           </ExtendedData>
           <Polygon>
