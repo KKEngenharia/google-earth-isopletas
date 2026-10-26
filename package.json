@@ -1,0 +1,14 @@
+{
+  "name": "google-earth-isopletas",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node scripts/convert.mjs"
+  },
+  "description": "Conversao dos KMLs de isopletas para GeoJSON",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "@tmcw/togeojson": "^7.1.3",
+    "@xmldom/xmldom": "^0.9.12"
+  }
+}
