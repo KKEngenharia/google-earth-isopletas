@@ -29,18 +29,29 @@ function roundCoords(coords, precision) {
   return rounded;
 }
 
-// Pontos do KML so servem de ancora de rotulo no Google Earth; no mapa viram marcadores indesejados.
-function flattenGeometry(geometry, precision) {
-  if (!geometry) return null;
+// Separa a geometria em pontos e o resto (linhas/poligonos).
+// Nas isopletas, o Point dentro do MultiGeometry e a ancora do rotulo com a velocidade
+// (o numero que o Google Earth/KmlLayer mostrava como icone).
+function splitGeometry(geometry, precision) {
+  if (!geometry) return { shape: null, points: [] };
   if (geometry.type === "GeometryCollection") {
-    const parts = geometry.geometries
-      .map((g) => flattenGeometry(g, precision))
-      .filter(Boolean);
-    if (!parts.length) return null;
-    return parts.length === 1 ? parts[0] : { type: "GeometryCollection", geometries: parts };
+    const parts = geometry.geometries.map((g) => splitGeometry(g, precision));
+    const shapes = parts.map((p) => p.shape).filter(Boolean);
+    const points = parts.flatMap((p) => p.points);
+    const shape = !shapes.length ? null : shapes.length === 1 ? shapes[0] : { type: "GeometryCollection", geometries: shapes };
+    return { shape, points };
   }
-  if (geometry.type === "Point" || geometry.type === "MultiPoint") return null;
-  return { type: geometry.type, coordinates: roundCoords(geometry.coordinates, precision) };
+  if (geometry.type === "Point") return { shape: null, points: [roundCoords(geometry.coordinates, precision)] };
+  if (geometry.type === "MultiPoint") return { shape: null, points: geometry.coordinates.map((c) => roundCoords(c, precision)) };
+  return { shape: { type: geometry.type, coordinates: roundCoords(geometry.coordinates, precision) }, points: [] };
+}
+
+// Texto do rotulo: o icone de cada estilo traz o ultimo numero do id do estilo
+// ("...\30" -> 30, "...\31 - 35" -> 35). Sem estilo, usa o ultimo numero do nome.
+function labelText(properties) {
+  const source = properties?.styleUrl || properties?.name || "";
+  const numbers = source.match(/\d+/g);
+  return numbers ? numbers[numbers.length - 1] : null;
 }
 
 function convert({ input, output, precision }) {
@@ -49,14 +60,22 @@ function convert({ input, output, precision }) {
 
   const features = [];
   for (const feature of source.features) {
-    const geometry = flattenGeometry(feature.geometry, precision);
-    if (!geometry) continue;
+    const { shape, points } = splitGeometry(feature.geometry, precision);
 
     const properties = {};
     for (const key of KEEP_PROPERTIES) {
       if (feature.properties?.[key] !== undefined) properties[key] = feature.properties[key];
     }
-    features.push({ type: "Feature", properties, geometry });
+    if (shape) features.push({ type: "Feature", properties, geometry: shape });
+
+    // Pontos so viram rotulo quando o estilo do KML tem icone (caso das isopletas);
+    // nos estados os pontos nao tem significado e sao descartados.
+    const label = feature.properties?.icon ? labelText(feature.properties) : null;
+    if (label) {
+      for (const coordinates of points) {
+        features.push({ type: "Feature", properties: { name: properties.name, label }, geometry: { type: "Point", coordinates } });
+      }
+    }
   }
 
   if (!features.length) throw new Error(`${input}: nenhuma feature valida encontrada`);
